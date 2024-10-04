@@ -1,5 +1,5 @@
 {
-  "name": "optimistdigital/nova-translations-loader",
+  "name": "matthiasvg-conversal/nova-translations-loader",
   "description": "This Laravel Nova package helps developers load translations into their packages.",
   "keywords": [
     "laravel",
